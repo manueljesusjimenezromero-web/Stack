@@ -11,6 +11,6 @@
         <?php echo htmlspecialchars(date('d/m/Y')); ?>
         a las <?php echo htmlspecialchars(date('H:m:s')); ?>
         </p>
-        <p><Strong><?php echo htmlspecialchars('Se imprimen variables en html para evitar ataques XSS'); ?></Strong></p>
+        <p><Strong><?php echo htmlspecialchars('Una buna practica es imprimir variables en html para evitar ataques XSS'); ?></Strong></p>
     </body>
 </html>
